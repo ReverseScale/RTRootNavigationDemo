@@ -1,5 +1,5 @@
 # RTRootNavigationDemo
-独立导航栏库 RTRootNavigationController 使用示例🤖
+独立导航栏库 RTRootNavigationController 使用示例 🤖
 
 > 也许你见过许多不太一样的导航栏，也许你需要单独控制每一个导航栏的状态，也许你只想更优雅的使用自定义导航栏。
 
