@@ -1,10 +1,12 @@
 # RTRootNavigationDemo
 
+![](https://img.shields.io/badge/platform-iOS-red.svg) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) ![](https://img.shields.io/badge/download-9.9MB-yellow.svg) ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
+
+[EN](#Requirements) | [中文](#中文说明)
+
 Standalone Navigation Bar Library RTRootNavigationController Example Usage 🤖
 
 > Maybe you have seen many different navigation bar, maybe you need to control the status of each navigation bar alone, maybe you just want more elegant use of custom navigation bar.
-
-![](https://img.shields.io/badge/platform-iOS-red.svg) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) ![](https://img.shields.io/badge/download-9.9MB-yellow.svg) ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 Great god rickytan RTRootNavigationController can help you（https://github.com/rickytan/RTRootNavigationController）
 
